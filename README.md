@@ -10,18 +10,19 @@ Calculator/
 ├── calculator.py       # Main application file
 ├── shape.py            # Contains ASCII logo
 
-
+---
 ## How It Works 
--
-  What's the first number?: 10
-  +  
-  -  
-  *  
-  /  
-  Pick an operation: +
-  What's the next number?: 5
-  10 + 5 = 15
-  Type 'y' to continue calculating with 15, or type 'n' to start a new calculation:
+```
+What's the first number?: 10
++  
+-  
+*  
+/  
+Pick an operation: +
+What's the next number?: 5
+10 + 5 = 15
+Type 'y' to continue calculating with 15, or type 'n' to start a new calculation:
+`​``
 
 ## Installation
 
