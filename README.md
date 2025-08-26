@@ -6,7 +6,9 @@ This is a console-based calculator built with Python that performs basic arithme
 ## Project Structure
 
 Calculator/
+
 ├── calculator.py       # Main application file
+
 ├── shape.py            # Contains ASCII logo
 
 
