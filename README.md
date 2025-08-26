@@ -33,7 +33,7 @@ Make sure Python is installed on your system. Then, open your terminal and run:
 ```bash
 git clone https://github.com/Siddikaslan/Calculator.git
 cd Calculator
-python calculator.py
+python main.py
 ```
 
 
