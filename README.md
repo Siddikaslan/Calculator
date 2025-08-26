@@ -1,27 +1,32 @@
-# 🧮 Calculator
+# 🧮 Simple Python Calculator
 
-Python ile yazılmış basit bir hesap makinesi uygulaması.
+This is a console-based calculator built with Python that performs basic arithmetic operations: addition, subtraction, multiplication, and division. It features a clean interface and allows users to continue calculations with previous results or start fresh.
 
-## 🚀 Özellikler
+---
 
-- Toplama
-- Çıkarma
-- Çarpma
-- Bölme
-- Hata kontrolü
+## Project Structure
 
-## 🛠 Kurulum
+Calculator/
+├── calculator.py       # Main application file
+├── shape.py            # Contains ASCII logo
 
-Python yüklü olduğundan emin olun. Ardından terminalde:
+## How It Works
+-
+What's the first number?: 10
++  
+-  
+*  
+/  
+Pick an operation: +
+What's the next number?: 5
+10 + 5 = 15
+Type 'y' to continue calculating with 15, or type 'n' to start a new calculation:
+
+## Installation
+
+Make sure Python is installed on your system. Then, open your terminal and run:
 
 ```bash
 git clone https://github.com/Siddikaslan/Calculator.git
 cd Calculator
-python calculator.py
-
-## Örnek kullanım
-
-Lütfen işlem seçin: + - * /
-İlk sayı: 10
-İkinci sayı: 5
-Sonuç: 15
+python calculator.py```
